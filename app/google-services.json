@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "895924502398",
+    "firebase_url": "https://pointblank-eb0ee.firebaseio.com",
+    "project_id": "pointblank-eb0ee",
+    "storage_bucket": "pointblank-eb0ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895924502398:android:1e997c233607d48fa77d2f",
+        "android_client_info": {
+          "package_name": "com.dscepointblank.pointblank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895924502398-jnns579kgk8qfgfn9lqmc66v6hj0tdgh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dscepointblank.pointblank",
+            "certificate_hash": "77c9858e90c770cea402609f3837cacb35597ac4"
+          }
+        },
+        {
+          "client_id": "895924502398-k5befpb57t37vsamu00u0lm0kpm4a12e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByCF1zqbsEEvb-oZaWkJW9aldzRTKGcAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895924502398-k5befpb57t37vsamu00u0lm0kpm4a12e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
